@@ -3,4 +3,4 @@
 
 (1) von neumann architecture
 
-a.中文名稱：馮紐曼架構。
+   a.中文名稱：馮紐曼架構。
